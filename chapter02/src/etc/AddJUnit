@@ -1,0 +1,5 @@
+이클립스에서 JUnit 추가하기 
+
+1. File > Properties 
+2. Java Build Path > Libraries 
+  - Add Library > JUnit 클릭 
