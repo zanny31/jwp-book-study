@@ -1,0 +1,8 @@
+깃과 이클립스 연동하기
+
+1. 이클립스 상단 메뉴에서 Window > Show View > Other...
+   - Git 검색 후 Git Repositories 선택 
+2. Clone a Git Repository... 선택 
+   - 레파지토리 URI, Git 아이디, 패스워드 설정
+3. 깃 레파지토리와 연동하려는 프로젝트에 마우측 우측 클릭 > Team > Share Project...
+   - 연동하려는 레파지토리 선택 
