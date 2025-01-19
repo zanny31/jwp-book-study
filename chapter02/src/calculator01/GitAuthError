@@ -1,0 +1,11 @@
+Push 과정에서 기존의 방법대로 로그인했더니 에러가 발생함
+
+==========================================
+Can't connect to any repository:  https://github.com/zanny31/jwp-book-study.git 
+(https://github.com/zanny31/jwp-book-study.git: not authorized)
+==========================================
+
+기존의 password를 입력하면 발생하는 에러로 확인
+Git에서 Personal Access Token (PAT) 발행 -> 발행한 Token을 입력하니 정상적으로 로그인 됨 
+
+이유 : Git의 보안 정책이 바뀌었기 떄문
